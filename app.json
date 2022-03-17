@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/yamysghey/sincustom",
+  "repository": "https://github.com/yamysghey/sincustom",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
